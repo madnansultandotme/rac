@@ -4,6 +4,10 @@
 Remote Area Chatbot is a desktop application designed to provide an interactive chat experience using a local AI model powered by Ollama and the DeepSeek LLM (deepseek-r1:1.5b). This application is ideal for users in remote areas with limited internet access, as it runs entirely offline after initial setup. It features a modern, user-friendly interface with soft colors, dark/light theme support, and accessibility enhancements.
 
 The project was developed by Aqsa Abu Bakar and is maintained by the AITeC team. The application was last updated on May 29, 2025.
+## Slides
+
+[Click here to view the slides](https://pern-my.sharepoint.com/:f:/g/personal/04072113023_student_qau_edu_pk/EkL7CKqaiJhGnewNlW9obFMBUvgLuW48TfcN5dvHQOtm_g?e=JGPl30)
+
 
 ## Features
 
